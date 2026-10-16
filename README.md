@@ -17,6 +17,7 @@ Control is via an IR remote control, with the following functions:
   - Random double colour ("Strobe" button)
   - Colour fade interval selection ("Flash" button)
 
+IR Protocol: NEC. Codes for the typical 6 row, 4 col remote supplied with coloured lights.
 To aid testing other kinds of IR remotes, the command code is printed to the serial
 console when a button is pressed.
 
